@@ -8,7 +8,6 @@ author:
   name: dreamscached
   picture: /assets/images/avatars/dream.png
 read_time: true
-image: /assets/images/posts/2022-05-28-dead-simple-events-hero.jpg
 ---
 
 If you have never been working with MAS at level *way more advanced* than just some dialogue coding, you probably have
