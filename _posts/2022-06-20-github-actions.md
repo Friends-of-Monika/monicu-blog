@@ -7,6 +7,7 @@ tags: meta
 author:
   name: dreamscached
   picture: /assets/images/avatars/dream.png
+read_time: true
 ---
 
 Continuing the series of posts about *more or less* advanced submodding 
