@@ -3,7 +3,7 @@ layout: post
 title: GitHub Actions For Submod Checking
 date: 2022-06-20 09:06:02 +0200
 categories: posts
-tags: meta
+tags: submodding github repo
 author:
   name: dreamscached
   picture: /assets/images/avatars/dream.png
