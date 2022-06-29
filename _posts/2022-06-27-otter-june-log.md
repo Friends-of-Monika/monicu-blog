@@ -1,7 +1,7 @@
 ---
 layout: post
 title: otter's monthly log! (june)
-date: 2022-06-27 21:02:55 +0200
+date: 2022-06-27 21:02:55 -0300
 categories: posts
 tags: meta
 author:
@@ -50,6 +50,7 @@ ehehehe~
 i also did many many commissions, which allowed me to pamper myself a lot and get better at what i love doing the most: submodding and designing spritepacks!
 it's great to be so loved and so supported by this community. i give my commissions a whole chunk of my heart every time. ehehehe.
 consider commissioning me! contact me at our discord server:
+
 [![Discord server invitation][13]][14]
 
 for july... wow. it's been so long since i had a vacation. and i want to put it to great use!
