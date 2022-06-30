@@ -7,6 +7,7 @@ tags: meta
 author:
   name: otter
   picture: /assets/images/avatars/otter.png
+read_time: true
 ---
 
 well, hello everyone!
