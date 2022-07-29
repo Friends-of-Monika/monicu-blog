@@ -28,7 +28,7 @@ twitter_username: ~
 github_username:  friends-of-monika
 
 # Build settings
-remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5
+remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
   - jekyll-feed
 
